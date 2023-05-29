@@ -36,7 +36,7 @@ Some facts:
 
 <!-- - 🤝 I’m looking for help with [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data) -->
 
-- 👨‍💻 All of my profile details are available at https://fridayonojah.github.io/
+<!-- - 👨‍💻 All of my profile details are available at https://fridayonojah.github.io/ -->
 
 - 📫 Connect me via **fridayonojah360@gmail.com**
 
