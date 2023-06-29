@@ -1,35 +1,12 @@
- ### Hi there 👋 
 
-By now you must have known my name and what I look like. Going further friday is a tech enthusiast whose passion for the tech industry drove him to read up on computer programing technologies in state public libraries and practiced his skills on code writing with pen and paper before he could ever afford to buy himself a computer or a smartphone.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hello there 👋 I'm Onojah Friday</h1>
-<!-- <h3 align="center">A Passionate CTO @ Kuala Lumpur, Malaysia</h3>
-<h3 align="center">CTO | Ex-Accenture | Cloud | IoT | 5X Multi-Cloud Certified</h3>
-<h3 align="center">Certified in AWS, Microsoft Azure, Alibaba Cloud & Terraform</h3> -->
 
-<br/>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=fridayonojah&label=Profile%20views&color=0e75b6&style=flat" alt="jerrychong25" />
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffridayonojah&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fridayonojah.fridayonojah" alt="visitors"/>
-</p>
-
+  By now you must have known my name and what I look like. Going further Friday is a tech enthusiast whose passion for the tech industry    drove him to read up on computer programing technologies. I am a skilled software programmer with expertise in React, Node.js, Php, and   Python. I have over 2 years of experience in building and maintaining web applications. My skills in both front-end and backend development allow me to create high-quality, efficient, and user-friendly solutions. 
+  
 Some facts:
 
 <!-- - 🔭 I’m currently working on [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data) -->
-
-- 🌱 I’m currently learning random stuffs everyday
+- 🌱 I’m currently learning random stuff every day
 
 - 👯 I’m looking to collaborate on any ideas
 
