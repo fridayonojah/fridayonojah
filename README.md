@@ -1,7 +1,6 @@
-<!-- ### Hi there 👋 -->
+ ### Hi there 👋 
 
-<!--
-**fridayonojah/fridayonojah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+By now you must have known my name and what I look like. Going further friday is a tech enthusiast whose passion for the tech industry drove him to read up on computer programing technologies in state public libraries and practiced his skills on code writing with pen and paper before he could ever afford to buy himself a computer or a smartphone.
 
 Here are some ideas to get you started:
 
