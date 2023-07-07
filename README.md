@@ -5,10 +5,11 @@
   
 Some facts:
 
- 🔭 I’m currently working on [https://github.com/fridayonojah/event_schedule_api)
-- 🌱 I’m currently learning random stuff every day
-
+ 🔭 I’m currently working on [Event Schedule Api](https://github.com/fridayonojah/event_schedule_api)  
+ 
 - 👯 I’m looking to collaborate on any ideas
+
+- 🤝 I’m looking for help with [Event Schedule Api](https://github.com/fridayonojah/event_schedule_api)
 
 👨‍💻 All of my profile details are available at https://fridayonojah.github.io/ 
 
