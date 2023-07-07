@@ -5,7 +5,7 @@
   
 Some facts:
 
- 🔭 I’m currently working on [malaysia-map-data](https://github.com/jerrychong25/malaysia-map-data)
+ 🔭 I’m currently working on [https://github.com/fridayonojah/event_schedule_api)
 - 🌱 I’m currently learning random stuff every day
 
 - 👯 I’m looking to collaborate on any ideas
