@@ -7,7 +7,8 @@ I am a skilled software programmer with expertise in React, Node.js, Php, and   
   
 Some facts:
 
-- 🔭 I’m currently working on [Event Schedule Api](https://github.com/fridayonojah/event_schedule_api)  
+- 🔭 I’m currently working on [Event Schedule Api](https://github.com/fridayonojah/event_schedule_api)
+- 🎗️ I'm currently learning Django and Django-restframework
  
 - 👯 I’m looking to collaborate on any ideas
 
