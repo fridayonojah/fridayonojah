@@ -3,7 +3,7 @@
 
 By now you must have known my name and what I look like. Going further Friday is a tech enthusiast whose passion for the tech industry    drove him to read up on computer programing technologies.
   
-I am a skilled software programmer with expertise in React, Node.js, Php, and   Python. I have over 2 years of experience in building and maintaining web applications. My skills in both front-end and back-end development allow me to create high-quality, efficient, and user-friendly solutions. 
+I am a skilled software programmer with expertise in React, Node.js, Php, and Python. I have 3 years of experience in building and maintaining web applications. My skills in both front-end and back-end development allow me to create high-quality, efficient, and user-friendly solutions. 
   
 Some facts:
 
