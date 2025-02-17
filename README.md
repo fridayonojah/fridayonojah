@@ -5,23 +5,9 @@ By now you must have known my name and what I look like. Going further Friday is
   
 I am a skilled software programmer with expertise in React, Node.js, Php, and Python. I have 3 years of experience in building and maintaining web applications. My skills in both front-end and back-end development allow me to create high-quality, efficient, and user-friendly solutions. 
   
-Some facts:
-
-- 🔭 I’m currently working on [Event Schedule Api](https://github.com/fridayonojah/event_schedule_api)
-- 🎗️ I'm currently learning Django and Django-restframework
- 
-- 👯 I’m looking to collaborate on any ideas
-
-- 🤝 I’m looking for help with [Event Schedule Api](https://github.com/fridayonojah/event_schedule_api)
-
- 
-
-- 📫 Connect me via **fridayonojah360@gmail.com**
-
-
 Development Experience:
 - Frontend: JS, TS, React, Bootstrap, Html, Css,
-- Backend: Node.js, Express, Php, Python Django
+- Backend: Node.js, Express, Php, Python Django, Java Spring boot,
 - Databases: SQL, MongoDB
 - Other: OOP, RestFul API Design & Development, Automation Testing
 
