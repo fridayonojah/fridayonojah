@@ -1,6 +1,7 @@
 
 <h1 align="center">Hello! I'm Friday Onojah 👋</h1>
 I'm passionate about technology and enjoy building web applications. With over 3 years of experience, I work with React, Node.js, PHP, and Python to create efficient, user-friendly solutions.
+
 Feel free to explore my projects and reach out if you'd like to connect!
 
 
