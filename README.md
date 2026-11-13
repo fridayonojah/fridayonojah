@@ -27,7 +27,7 @@ I design and build full-stack applications and deterministic AI systems. My work
 
 I share practical breakdowns on AI system guardrails, state validation, and backend reliability on LinkedIn and Medium. Feel free to explore my repositories below and reach out if you'd like to collaborate or discuss system architecture!
 
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com-660ab4235/)
-- **Medium:** [://medium.com](https://://medium.com)
+- **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/friday-onojah-660ab4235/)
+- **Medium:** [medium.com](https://://medium.com)
 - **X (Twitter):** [@onojah_fresh](https://twitter.com)
-- **Stack Overflow:** [://stackoverflow.com](https://stackoverflow.com)
+- **Stack Overflow:** [stackoverflow.com](https://stackoverflow.com)
