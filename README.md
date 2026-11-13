@@ -1,15 +1,34 @@
+### Hi there, I'm Friday Onojah 👋
 
-<h1 align="center">Hello! I'm Friday Onojah 👋</h1>
-I'm passionate about technology and enjoy building web applications. With over 4 years of experience, I work with React, Node.js, PHP, and Python to create efficient, user-friendly solutions.
+**Software & AI Engineer | Building Agentic & AI Workflows, Resilient Backends & Scalable Web Applications**
 
-Feel free to explore my projects and reach out if you'd like to connect!
+I design and build full-stack applications and deterministic AI systems. My work focuses on bridging modern web interfaces with reliable backend architectures ensuring multi step agent workflows, high-frequency data pipelines, and distributed APIs run predictably in production.
 
+---
 
-Development Experience:
-- Frontend: JS, TS, React, Bootstrap, Html, Css,
-- Backend: Node.js, Express, Php, Python Django, Java Spring boot,
-- Databases: SQL, MongoDB
-- Other: OOP, RestFul API Design & Development, Automation Testing
+### 🔧 What I Focus On
+- **Agentic AI & Workflow Orchestration:** Designing stateful, multi-step AI pipelines with strict schema validation, deterministic routing, and Human-in-the-Loop guardrails.
+- **Resilient Backend Architecture:** Engineering low-latency APIs, concurrency-safe data mutations, and transactional outbox patterns that prevent duplicate side effects.
+- **Full-Stack Product Delivery:** Translating complex system logic into clean, responsive, and user-friendly web interfaces.
+
+---
+
+### 🛠️ Technical Stack
+
+- **AI & Orchestration:** Python, LangGraph, Structured Outputs, Pydantic, Prompt & Context Engineering
+- **Backend & APIs:** Node.js (Express, NestJS), Python (FastAPI, Django), PHP, Java (Spring Boot), RESTful API Design
+- **Frontend:** JavaScript (ES6+), TypeScript, React, HTML5, CSS3, Bootstrap
+- **Databases & State:** SQL (PostgreSQL, MySQL), MongoDB, Redis, State Checkpointing
+- **Engineering Practices:** Object-Oriented Programming (OOP), Concurrency Control, Idempotent Workflows, Automation Testing
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [Friday Onojah](https://linkedin.com)
+- **Writing:** I share practical breakdowns on AI system guardrails, state validation, and backend reliability on LinkedIn.
+
+Feel free to explore my repositories below and reach out if you'd like to collaborate or discuss system architecture!
+
 
 <p align="left">
 <h3 align="left">Skills</h3>
