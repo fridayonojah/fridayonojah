@@ -1,6 +1,6 @@
 ### Hi there, I'm Friday Onojah 👋
 
-**Software & AI Engineer | Specializing in Production AI Software & Workflows | Enterprise Systems Architect**
+**Software Engineer | Specializing in Agentic AI Software & Workflows**
 
 I design and build full-stack applications and deterministic AI systems. My work focuses on bridging modern web interfaces with reliable backend architectures ensuring multi-step agent workflows, high-frequency data pipelines, and distributed APIs run predictably in production.
 
