@@ -19,7 +19,6 @@ I design and build full-stack applications and deterministic AI systems. My work
 - **Backend & APIs:** Node.js (Express, NestJS), Python (FastAPI, Django), PHP, Java (Spring Boot), RESTful API Design
 - **Frontend:** JavaScript (ES6+), TypeScript, React, HTML5, CSS3, Sass, Bootstrap
 - **Databases & State:** SQL (PostgreSQL, MySQL), MongoDB, Redis, State Checkpointing
-- **Engineering Practices:** Object-Oriented Programming (OOP), Concurrency Control, Idempotent Workflows, Automation Testing
 
 ---
 
